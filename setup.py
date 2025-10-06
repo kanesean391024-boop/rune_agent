@@ -6,5 +6,5 @@ setup(
     packages=find_packages(),
     entry_points={"console_scripts": ["rune-agent = rune_agent:main"]},  # Assumes a main() in your script
     description="Elder Futhark Rune Transliterater",
-    author="You",
+    author="Schon Kane",
 )
